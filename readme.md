@@ -1,0 +1,1 @@
+La aplicación consiste en sortear amigos secretos, puedes agregar nombres de personas para el sorteo. Los nombres agregados van apareciendo en un listado, y finalmente, al presionar el boton, sortea al azar a uno de los nombres introducidos, diciendo que amigo secreto tienes. Tiene validación de campos vacios.
